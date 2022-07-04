@@ -11,9 +11,9 @@
   "dependencies": {
     "mongoose": "^6.4.2",
     "mongose": "0.0.2-security",
-    "next": "12.2.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "next": "^12.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "eslint": "8.19.0",
